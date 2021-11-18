@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463980021039",
+    "project_id": "enigmassiette-94baf",
+    "storage_bucket": "enigmassiette-94baf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463980021039:android:d1f949988a375b2f7f4dda",
+        "android_client_info": {
+          "package_name": "com.example.enigmassiette"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463980021039-o9k12hpbib0kabpq4vfmb3fe53oj5421.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWon8ZEGGyGdVtxzVg8aNjrj140AZOnA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463980021039-o9k12hpbib0kabpq4vfmb3fe53oj5421.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

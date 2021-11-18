@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EnigmAssiette</string>
+    <string name="formLabel">Connectez vous</string>
+    <string name="emailPlaceHolder">Email :</string>
+    <string name="passwordPlaceholder">Password</string>
+    <string name="submitButton">Se connecter</string>
+
+
+
+    <string name="avisTitle">Donnez votre avis</string>
+    <string name="restaurantName">Nom du restaurant :</string>
+    <string name="eatingDate">Date</string>
+    <string name="eatingTime">Heure</string>
+    <string name="decoNote">Décoration</string>
+    <string name="foodNote">Nourriture</string>
+    <string name="servNote">Service</string>
+    <string name="description">Critique :</string>
+    <string name="button">Valider</string>
+</resources>
